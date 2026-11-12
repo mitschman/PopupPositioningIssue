@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/GitHub
+/.vs/slnx.sqlite
+/.vs/VSWorkspaceState.json
+/.vs/slnx.sqlite
+/PopupPositioningIssue/.vs/PopupPositioningIssue.slnx
+/.vs/slnx.sqlite
